@@ -1,0 +1,2 @@
+# demogit
+Sincronizar visual studio
